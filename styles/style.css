@@ -7,7 +7,6 @@ html, body {
   padding: 0;
   height: 100vh;
   background: #282828;
-  color: #ffffff;
   font-family: 'Inconsolata', monospace;
 }
 
@@ -22,4 +21,32 @@ div.container {
 
 .content {
   padding: 0 5%;
+}
+
+p.base {
+  margin: .2em;
+}
+
+p.indent {
+  margin-left: 2em;
+}
+
+.base {
+  color: #aab1bf;
+}
+
+.blue {
+  color: #18a7b3;
+}
+
+.red {
+  color: #f05c6c;
+}
+
+.purple {
+  color: #d861dd;
+}
+
+.green {
+  color: #86ca79;
 }
