@@ -67,6 +67,11 @@ p.indent {
   color: #cc915c;
 }
 
+.grey {
+  color: #69748e;
+  font-style: italic;
+}
+
 a {
   text-decoration: none;
 }
