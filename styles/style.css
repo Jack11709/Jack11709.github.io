@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: #282828;
+  color: #ffffff;
+  font-family: 'Inconsolata', monospace;
+}
+
+div.container {
+  max-width: 960px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content {
+  padding: 0 5%;
+}
