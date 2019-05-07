@@ -23,6 +23,10 @@ div.container {
   padding: 0 5%;
 }
 
+h1, h2 {
+  font-weight: normal;
+}
+
 p.base {
   margin: .2em;
 }
